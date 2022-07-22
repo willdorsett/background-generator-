@@ -1,2 +1,2 @@
-# background-generator-
+# background-generator
 simple background generator
